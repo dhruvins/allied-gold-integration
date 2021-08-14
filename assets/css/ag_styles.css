@@ -1,0 +1,24 @@
+.quantity {
+    display: inline-block!important;
+}
+
+.single_add_to_cart_button {
+    margin-left: 5px;
+}
+
+.ag_separator {
+    text-align: center!important;
+}
+
+.ag_separator_text {
+    letter-spacing: -1px!important;
+}
+
+.ag_contact_form {
+    display: grid;
+    width: 70%;
+}
+
+.ag_margin {
+    margin-top: 15px;
+}
